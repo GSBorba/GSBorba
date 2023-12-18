@@ -1,6 +1,6 @@
 [![MasterHead](https://png.pngtree.com/template/20220505/ourmid/pngtree-programming-and-coding-banner-working-image_1312497.jpg)](https://gsborba.io)
 <h1 align="center">Hi 👋, I'm Gabriel de Souza Borba</h1>
-<h3 align="center">A Full Stack Developer from Brazil!</h3>
+<h3 align="center">A Back End Developer from Brazil!</h3>
 
 - 🔭 I’m currently working on **Philips as a Developer!**
 
