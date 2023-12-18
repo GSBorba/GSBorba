@@ -10,6 +10,10 @@
 
 - ⚡ Fun fact **I recently started learning Japanese just to watch anime without subtitles!**
 
+Hi, my name is Gabriel de Souza Borba, but my friends call me Borba. I love technology, programming and games, and I'm constantly learning new things, I'm always taking courses when I have free time, because I think it's very important always be up to date with new technologies on the market.
+
+I started programming when I was still in high school, and since then I've loved this world more and more. In 2022 I started my degree in Computer Science at FURB, and in the same year I started working as a developer where I am today, and working there I use the Java and JavaScript as programming languages ​​and the Oracle as database.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-borba-694550216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-borba-694550216" height="30" width="40" /></a>
